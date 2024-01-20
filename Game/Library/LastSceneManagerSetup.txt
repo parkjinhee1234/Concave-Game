@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Secend class/scens/Secend Game.unity
+- path: Assets/surd class/scenes/surd game.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
